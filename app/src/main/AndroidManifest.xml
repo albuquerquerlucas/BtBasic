@@ -20,5 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DispositivosPareados" />
+        <activity android:name=".BuscaPorDispositivos"></activity>
     </application>
+
 </manifest>
